@@ -5,7 +5,7 @@ It simulates live updates and displays crypto asset data in a responsive table.
 
 ---
 
-##  Tech Stack
+##  Tech Stack 
 - React.js
 - Redux Toolkit
 - gh-pages
@@ -16,24 +16,24 @@ It simulates live updates and displays crypto asset data in a responsive table.
 ##  Setup Instructions
 
 1. Clone the repository:
-```bash
-git clone https://github.com/nisha645/crypto-price-tracker.git
-cd crypto-price-tracker
-Install dependencies:
 
-#### npm install
+- git clone https://github.com/nisha645/crypto-price-tracker.git
+- cd crypto-price-tracker
 
-Start the development server:
-####npm start
+- Install dependencies:  npm install
 
-Build the app:
-####npm run build
+- Start the development server: npm start
 
-Deploy to GitHub Pages:
-###npm run deploy
+- Build the app: npm run build
 
+- Deploy to GitHub Pages: npm run deploy
+
+---
 ## 🎥 Demo
+
 A walkthrough showing the Crypto Price Tracker layout, real-time updates, and state flow using Redux Toolkit.
 
-##Thought Process :
+---
+## Thought Process
 The goal was to create a simple, responsive, real-time tracker with minimal dependencies. Redux Toolkit helps keep the code clean and scalable. The app is deployed to GitHub Pages using gh-pages package.
+
