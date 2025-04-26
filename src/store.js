@@ -13,7 +13,7 @@ const initialState = {
       marketCap: 1861618902186,
       volume24h: 43874950947,
       circulatingSupply: '19.85 BTC',
-      logo: 'https://th.bing.com/th/id/OIP.W9TeteQE_AVvFfs1M1HaxAHaHZ?w=250&h=249&c=8&rs=1&qlt=90&o=6&dpr=1.1&pid=3.1&rm=2',
+      logo: '#',
     },
     {
       id: 2,
