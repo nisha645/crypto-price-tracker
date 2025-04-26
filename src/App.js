@@ -94,7 +94,7 @@ function App() {
               <td>${crypto.marketCap.toLocaleString()}</td>
               <td>${crypto.volume24h.toLocaleString()}</td>
               <td>{crypto.circulatingSupply}</td>
-              <td><img src="/7d.png" alt="7D Chart" width="100%" /></td>
+              <td><img src="https://s3.amazonaws.com/assets.coingecko.com/app/public/ckeditor_assets/pictures/6406/content_BTC_Logarithmic_Curve.png" alt="7D Chart" width="100%" /></td>
             </tr>
           ))}
         </tbody>
